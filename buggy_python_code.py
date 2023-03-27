@@ -1,7 +1,5 @@
 import yaml
 import flask
-import urllib2
-import urllib3
 
 app = flask.Flask(__name__)
 
